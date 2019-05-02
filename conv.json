@@ -1,0 +1,31 @@
+{
+    "name": "<http://www.w3.org/2002/07/owl#Thing>",
+    "children": [
+        {
+            "name": "<http://dbpedia.org/ontology/Place>",
+            "children": [
+                {
+                    "name": "<http://dbpedia.org/resource/Neverland>"
+                }
+            ]
+        },
+        {
+            "name": "<http://dbpedia.org/ontology/Agent>",
+            "children": [
+                {
+                    "name": "<http://dbpedia.org/ontology/Organisation>",
+                    "children": [
+                        {
+                            "name": "<http://dbpedia.org/ontology/Company>",
+                            "children": [
+                                {
+                                    "name": "<http://dbpedia.org/resource/Tree_house>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
