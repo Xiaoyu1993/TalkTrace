@@ -1,2 +1,5 @@
 srl-model-2018.05.25/
 srl-model-2018.05.25.tar.gz
+enwiki_20180420_100d.pkl
+*.bin
+GoogleNews-vectors-negative300.bin
